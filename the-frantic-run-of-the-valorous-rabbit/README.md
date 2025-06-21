@@ -28,10 +28,6 @@ An engaging endless-runner web game where a courageous rabbit races to escape a 
 - **CSS** – Modular, maintainable styling
 - **JavaScript (Vanilla)** – Game logic and animation
 
-## 📷 Screenshot
-
-![Game Screenshot](Screenshot 2025-06-21 190256.png)
-
 
 
 
